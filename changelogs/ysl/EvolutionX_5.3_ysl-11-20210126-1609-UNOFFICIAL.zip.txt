@@ -1,0 +1,9 @@
+ROM source synced to latest
+Switched to Cannon kernel
+Kernel upstreamed to 4.9.250
+Nuked RetroMusic
+Enabled Smart Charge
+Added custom init to set device properties
+Added missing perf blobs
+Fixed warnings of CPU performance calculator
+Fixed some missing properties
