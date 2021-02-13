@@ -1,0 +1,16 @@
+Latest ROM changes
+Kernel upstream to 4.9.257
+Added Smart Charge
+Added OTA Updates
+Fixed random freezes
+Fixed several apps fingerprint scanner detection
+Fixed warnings of CPU performance calculator
+Fixed some missing properties
+Updated perf/iop blobs, display stack from LA.UM.9.6.2.r1-03300-89xx.0
+Updated Listen blobs from LA.UM.9.6.2.r1-02100-89xx.0
+Updated GPS blobs from LA.UM.9.6.2.r1-02500-89xx.0
+Updated Audio service
+Reworked Light HAL
+Added Indian device detection
+Nuked RetroMusic
+Added FM Radio
